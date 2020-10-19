@@ -9,15 +9,15 @@ role: Research Assistance, Department of Eco- nomics and Center for Research in
 bio: My research interests include industrial economics, political economy,
   economic history.
 interests:
-  - ""
+  - "Industrial Economics, Economic History, and Political Economy"
 social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
 education:
-  courses: []
+  courses: [National Taiwan University]
 user_groups:
   - ""
 highlight_name: false
-email: ""
+email: "r06323010@ntu.edu.tw"
 ---
